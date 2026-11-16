@@ -93,9 +93,10 @@ GitHub contains a recoverable history of your work.
 Do not copy Directors Notes photographs, film stills, videos, logos, article
 text or archive records into your repository or deployed prototype.
 
-The course provides a wholly fictional connected archive in progressive stages,
-which will be added to this repository as the course progresses. You may adapt,
-commit and publish that teaching data and artwork. You may also use your own
+The course provides a wholly fictional film archive, which will be added to this
+repository in Week 2 so that you can use as much or as little of it as your
+project needs. You may adapt, commit and publish that teaching data and
+artwork. You may also use your own
 writing or artwork, abstract placeholders, HTML and CSS visual treatments, or
 openly licensed assets with the required attribution. Record the source and
 licence of anything created by someone else. If you are working on your own
