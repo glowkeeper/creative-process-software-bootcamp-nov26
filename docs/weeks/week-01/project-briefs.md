@@ -14,7 +14,10 @@ the bootcamp and return for the Week 8 prototype presentations.
 ## Your Project
 
 Choose one brief from this document and develop an individual prototype across
-the eight-week bootcamp. Alternatively, you may propose a project of your own
+the eight-week bootcamp. This is the expected route, and you can make the brief
+your own (see [Make the Brief Your Own](#make-the-brief-your-own) below).
+
+If you already have a specific idea of your own, you may propose it instead
 (see [Your Own Project](#your-own-project) below).
 
 Your project must remain closely connected to its brief, or to your agreed own
@@ -31,13 +34,37 @@ You are making an independent learning prototype, not production software for
 the live Directors Notes website. Your work does not need to be complete or
 polished to be valuable.
 
-In Week 8 you will present the prototype to MarBelle, whichever route you take. Your ideas, interactions
+In Week 8 you will present the prototype, whichever route you take. Directors
+Notes prototypes are presented to MarBelle. Your ideas, interactions
 or visual approach may inspire future Directors Notes development, but there is
 no expectation that your work will be adopted or published.
 
+Learners working on a Directors Notes brief receive **£100** for taking part.
+You invoice MarBelle at Directors Notes directly in Week 8, and he will bring
+an invoice template if you have not written an invoice before.
+
+## Make the Brief Your Own
+
+A brief describes a problem, not a solution. Within your brief, you decide:
+
+- which films, filmmakers or festivals to feature
+- a theme, genre or mood that interests you
+- exactly who your visitor is and what they want
+- how it looks
+- how the visitor moves through it
+
+Ten people could choose the same brief and build ten very different
+prototypes. If something personal draws you, such as a genre you love, a kind
+of filmmaker or a way of browsing, bring it into a brief.
+
 ## Your Own Project
 
-If you would rather work on an idea of your own:
+An own project is for a learner who already has a specific idea or purpose,
+such as their own creative work, a business, a community group or a portfolio
+piece, that a brief would not serve. If you would simply prefer to do your own
+thing, talk to your tutor about making a brief your own first.
+
+If you do want to propose your own project:
 
 - Talk to your tutor in Week 1, before you start building.
 - Your idea must be agreed and scoped first. It needs an intended visitor, a
@@ -47,8 +74,27 @@ If you would rather work on an idea of your own:
   accounts, payments or private personal data.
 - Use content that is yours, that you have permission to publish, or that is
   openly licensed. You may also use the course's fictional archive.
-- You present to MarBelle in Week 8 like everyone else. The £100 participation
-  payment is for work on the Directors Notes briefs only.
+- You present in Week 8 like everyone else. Own-project presentations may take
+  place in the morning, before MarBelle arrives, so that the afternoon belongs
+  to the Directors Notes prototypes.
+
+The £100 payment is for the Directors Notes briefs. Own-project learners can
+instead earn **£50** through **Research and Critique**: alongside your own
+prototype, you write a short piece of research into Directors Notes and a
+short critique of every Directors Notes prototype in the cohort, written as
+each one is presented, and hand the document to MarBelle in Week 8. It is
+optional, but we encourage it. Class time is set aside for it in Weeks 7 and 8, and MarBelle decides whether each
+document earns the payment.
+
+| Route | What you do | Payment |
+| --- | --- | --- |
+| Directors Notes brief | Build and present your prototype | £100 |
+| Own project | Build and present your prototype | None |
+| Own project with Research and Critique | Build and present your prototype, research Directors Notes and critique every Directors Notes prototype | £50 |
+
+Whichever route you choose, you keep ownership of your code, ideas and
+writing. Directors Notes may draw ideas from what you present or hand in, but
+nothing is promised to be adopted.
 
 ## Content and Data Boundary
 

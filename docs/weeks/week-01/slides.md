@@ -21,7 +21,7 @@ steve@huckle.studio
 - Respond to a Directors Notes brief, or to a project of your own
 - Learn modern web-development foundations
 - Make and explain your own decisions
-- Present your work to MarBelle in Week 8
+- Present your work in Week 8
 
 ---
 
@@ -34,6 +34,14 @@ We do   We investigate and build together
 
 You do  You apply the idea to your prototype
 ```
+
+---
+
+<!-- _class: section-slide -->
+
+# AI in this course
+
+## Three routes · You are the developer · What stays out
 
 ---
 
@@ -97,6 +105,14 @@ During this bootcamp I will:
 
 ---
 
+<!-- _class: section-slide -->
+
+# The next eight weeks
+
+## Two applications · Foundations · Independence
+
+---
+
 # Two applications have different jobs
 
 ```text
@@ -130,7 +146,7 @@ or to your own agreed idea
 
 <!-- _class: mentimeter-slide -->
 
-# How confident do you feel about beginning a software project?
+# Where are you starting from?
 
 ## Mentimeter Activity
 
@@ -201,6 +217,14 @@ Organised work
 
 ---
 
+<!-- _class: mentimeter-slide -->
+
+# Questions for MarBelle
+
+## Mentimeter Activity
+
+---
+
 # Ask before you assume
 
 ## Useful client questions
@@ -220,6 +244,14 @@ Organised work
 Your ideas may inspire future Directors Notes development.
 
 There is no expectation that your prototype will become production software.
+
+---
+
+<!-- _class: section-slide -->
+
+# Choose your project
+
+## Ten briefs · Make it yours · Own projects
 
 ---
 
@@ -279,24 +311,54 @@ Then decide what comes next.
 
 ---
 
+# Make the brief your own
+
+## A brief is a problem, not a solution
+
+You choose:
+
+- the films and filmmakers you feature
+- a theme, genre or mood
+- your visitor
+- how it looks and how people move through it
+
+---
+
 <!-- _class: activity-slide -->
 
 # Choose your brief
 
-1. Read all ten summaries
+1. Read all ten briefs in `project-briefs.md`
 2. Record a first choice
 3. Record a second choice
 4. Explain what interests you
 
 ---
 
-# Prefer your own idea?
+# Have a specific idea of your own?
 
+- Own projects are for a specific idea or purpose a brief would not serve
 - Talk to your tutor before you start building
-- Your idea is agreed and scoped first
-- It uses the same Starting Point and Keep Manageable boundary
-- You present to MarBelle in Week 8, like everyone else
-- The £100 participation payment is for the Directors Notes briefs only
+- Your idea is agreed and scoped first, with the same boundaries
+- You present in Week 8, like everyone else
+
+---
+
+# Be clear about the trade
+
+| Route | What you do | Paid |
+| --- | --- | --- |
+| Directors Notes brief | Build and present a prototype | £100 |
+| Own project | Build and present a prototype | — |
+| Own project + Research and Critique | Build and present a prototype, research Directors Notes, critique every Directors Notes prototype | £50 |
+
+---
+
+<!-- _class: section-slide -->
+
+# Define your project
+
+## Visitor · Starting Point · Scope · Safe content
 
 ---
 
@@ -500,9 +562,17 @@ Improve understanding before adding features:
 
 ---
 
+<!-- _class: reflection section-slide -->
+
+# Reflection
+
+## Look back at today
+
+---
+
 <!-- _class: mentimeter-slide -->
 
-# What did planning help you decide before writing code?
+# Put today's steps in order
 
 ## Mentimeter Activity
 
@@ -519,7 +589,7 @@ Improve understanding before adding features:
 
 <!-- _class: mentimeter-slide -->
 
-# How confident do you feel about beginning your project now?
+# What do software developers actually do?
 
 ## Mentimeter Activity
 

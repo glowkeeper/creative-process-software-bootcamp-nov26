@@ -51,7 +51,8 @@ ___________________________________________________________________
 
 # Activity 2: Explore the Project Briefs
 
-Read all ten summaries in `project-briefs.md` before choosing.
+Read all ten briefs in `project-briefs.md` before choosing. It is in the
+Week 1 folder of the course repository.
 
 ## First Choice
 
@@ -76,16 +77,36 @@ ___________________________________________________________________
 Several learners may respond to the same brief. Your project remains
 individual: you will make your own decisions and write your own code.
 
+## Make It Yours
+
+How could you make your first-choice brief your own? Think about the films or
+filmmakers you would feature, a theme or genre, your visitor, the look and the
+way people move through it.
+
+___________________________________________________________________
+
+___________________________________________________________________
+
 ## Prefer Your Own Idea?
 
-You may work on a project of your own instead. **Talk to your tutor before you
-start building.** Your idea must be agreed and scoped first, using the same
-Starting Point and Keep Manageable boundary as the briefs.
+A Directors Notes brief is the expected route, and it pays **£100**. An own
+project is for a specific idea or purpose that a brief would not serve.
+**Talk to your tutor before you start building.** Your idea must be agreed and
+scoped first, using the same Starting Point and Keep Manageable boundary as the
+briefs.
 
-You will still present to MarBelle in Week 8. The £100 participation payment
-is for the Directors Notes briefs only.
+You will still present in Week 8, possibly in the morning before MarBelle
+arrives. Own projects are not paid, but
+you can earn **£50** by also taking part in **Research and Critique**: a short
+piece of research into Directors Notes and a short critique of every Directors
+Notes prototype, handed to MarBelle in Week 8. It is optional, and we encourage
+it.
 
 What is your idea?
+
+___________________________________________________________________
+
+Why would a brief not work for this idea?
 
 ___________________________________________________________________
 
@@ -98,6 +119,7 @@ What would a small first version do?
 ___________________________________________________________________
 
 - [ ] I have discussed this with my tutor and it is agreed
+- [ ] I intend to take part in Research and Critique (you can decide later)
 
 ---
 
@@ -380,12 +402,16 @@ ___________________________________________________________________
 
 ___________________________________________________________________
 
-## Confidence Check
+## Where Are You Starting From?
 
-How confident do you currently feel about beginning your project?
+Score each statement from 1 (not yet) to 5 (on my own). Keep this page: you
+will answer the same statements at the end of Week 8.
 
-- [ ] Very unconfident
-- [ ] Unconfident
-- [ ] Neutral
-- [ ] Confident
-- [ ] Very confident
+| I could... | 1-5 |
+| --- | --- |
+| Plan a small piece of software as a list of tasks | |
+| Build a web page with HTML and CSS | |
+| Make a page respond to a visitor with JavaScript | |
+| Build an interface from React components | |
+| Find the cause of a bug using evidence | |
+| Publish my work for other people to use | |
