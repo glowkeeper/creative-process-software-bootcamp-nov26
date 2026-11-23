@@ -66,12 +66,12 @@ own prototype.
 Reference states and later course materials will be added to this repository
 week by week as they are delivered.
 
-## Week 1 Materials
+## Course Materials
 
-- [Week 1 slides](docs/weeks/week-01/slides.md), including Working with AI
-- [Directors Notes project briefs](docs/weeks/week-01/project-briefs.md)
-- [Week 1 worksheet](docs/weeks/week-01/worksheet.md)
-- [Week 1 resources](docs/weeks/week-01/resources.md)
+Each week's slides, worksheet and resources are in [`docs/weeks`](docs/weeks/),
+in a folder for that week, such as `docs/weeks/week-01`. Reference application
+states are in [`src`](src/), organised the same way. Folders appear as each week
+is delivered.
 
 ## Your Individual Repository
 
@@ -101,9 +101,9 @@ use an issue to direct an assistant.
 Do not copy Directors Notes photographs, film stills, videos, logos, article
 text or archive records into your repository or deployed prototype.
 
-The course provides a wholly fictional film archive, which will be added to this
-repository in Week 2 so that you can use as much or as little of it as your
-project needs. You may adapt, commit and publish that teaching data and
+The course provides a wholly fictional film archive, available in
+[`datasets/fictional-film-archive`](datasets/fictional-film-archive/) from
+Week 2, so that you can use as much or as little of it as your project needs. You may adapt, commit and publish that teaching data and
 artwork. You may also use your own
 writing or artwork, abstract placeholders, HTML and CSS visual treatments, or
 openly licensed assets with the required attribution. Record the source and
