@@ -465,6 +465,21 @@ than six films. Copy only the records your interface needs.
 
 ---
 
+# Start with an issue
+
+```text
+Issue      Why, and a Done when checklist
+Context    AGENTS.md says how to work here
+Plan       read it before any code is written
+Change     one small step
+Check      run it, test it, read what changed
+Commit     name the issue, move the card
+```
+
+## With AI or without, the issue is your plan
+
+---
+
 # Working well with AI
 
 - Say what you are building, and for whom

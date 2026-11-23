@@ -87,6 +87,23 @@ List two or three reusable classes you may need:
 
 ____________________________________________________________________
 
+Write the first issue for your interface on your Project board. Use the Task
+template: a short **Why**, a **Done when** checklist, and anything you are
+leaving for later. If your repository does not have the template yet, copy the
+`.github/ISSUE_TEMPLATE` folder from the cohort repository.
+
+Issue title:
+
+____________________________________________________________________
+
+Done when (three things you could check in the browser):
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+____________________________________________________________________
+
 ## 5. Build the Smallest Useful Interface
 
 ### Required
