@@ -6,8 +6,9 @@ Across eight weeks, you will develop an individual prototype. You will plan,
 build, test, improve and present your work while learning the foundations of
 modern web development.
 
-MarBelle, Co-Founder and Editor-in-Chief of Directors Notes, will introduce the
-client context in Week 1 and return for the Week 8 prototype presentations.
+MarBelle, Co-Founder and Editor-in-Chief of [Directors
+Notes](https://directorsnotes.com/), will introduce the client context in Week 1
+and return for the Week 8 prototype presentations.
 Your work may inspire ideas for the publication, but you are creating an
 independent learning prototype rather than production software for its live
 website.
@@ -88,6 +89,13 @@ Your individual repository should contain:
 Create small commits with messages that explain what changed. Push regularly so
 GitHub contains a recoverable history of your work.
 
+Plan your work with GitHub issues and your Project board. The issue templates in
+this repository's [`.github/ISSUE_TEMPLATE`](.github/ISSUE_TEMPLATE/) folder
+show a useful structure: a short **Why** and a **Done when** checklist, so that
+anyone could tell whether the issue is finished. To use them, copy that folder
+into your own repository. [Working With AI](#working-with-ai) shows how to
+use an issue to direct an assistant.
+
 ## Content and Data Boundary
 
 Do not copy Directors Notes photographs, film stills, videos, logos, article
@@ -123,3 +131,30 @@ make sure you can:
 Never paste private client material, credentials or personal information into
 an AI service. The Week 1 slides introduce the shared agreement, and Week 2
 practises it.
+
+### Start With an Issue
+
+Whether or not you use AI, the most useful habit is to decide what you are
+doing before you do it. Write a small GitHub issue first, using the templates in
+[`.github/ISSUE_TEMPLATE`](.github/ISSUE_TEMPLATE/): a short **Why** and a
+**Done when** checklist. If you cannot say how you would know the issue is
+finished, it is not ready to work on.
+
+If you use an AI assistant to help you build, the issue is how you direct it.
+Give it the issue, not a vague wish:
+
+1. **Write the issue.** One small task you can finish and test in a sitting.
+2. **Give the assistant its context.** An [`AGENTS.md`](AGENTS.md) file tells an
+   assistant what the project is and how to work on it. This repository has one,
+   and you can adapt it for your own repository.
+3. **Ask for a plan first.** Read it, and change it, before any code is written.
+4. **Ask for one small change at a time.**
+5. **Read the change, run it and test it** against the **Done when** list.
+6. **Commit when it works**, naming the issue in the message, then move the card
+   on your Project board.
+
+If you build without AI, the same issue is your plan, and steps 4 to 6 are your
+own work. Either way, you decide what is done.
+
+From Week 2 the tutor demonstrates this workflow using the issues in this
+repository.
